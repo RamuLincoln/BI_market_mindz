@@ -7,15 +7,15 @@ Market Mindz is a comprehensive Power BI project designed to track marketing cam
 ## 🚀 Key Insights & Features
 
 ### 1. Campaign Performance
-This view focuses on the ROI of various marketing channels. It tracks total spend vs. total revenue, allowing the marketing team to optimize their budget allocation.
+This view focuses on the ROI of various marketing channels. It tracks which campaign generates more revenue, allowing the marketing team to optimize their budget allocation.
 <img width="1161" height="632" alt="Campaign Performance" src="https://github.com/user-attachments/assets/d1261514-dddf-4a78-beac-7f06faf70f34" />
 
 ### 2. Buyer Composition
-A deep dive into customer demographics. This page segments the audience by age, location, and gender to build accurate "Buyer Personas."
+A deep dive into customer demographics. This page segments the audience by age, education, and kids to build accurate "Buyer Personas."
 <img width="1160" height="640" alt="Buyer Composition" src="https://github.com/user-attachments/assets/65e9c99b-23f8-4181-ba89-3b9e996b56c6" />
 
 ### 3. Purchase Drivers
-Identifying the "Why" behind the buy. This section uses correlation analysis to determine which product features or price points lead to the highest conversion rates.
+Identifying the "Why" behind the buy. This section uses correlation analysis to determine which campaign or price points lead to the highest conversion rates.
 <img width="1165" height="647" alt="Purchase Drivers" src="https://github.com/user-attachments/assets/2ac57332-3fe0-44e9-857e-1a972da1141b" />
 
 ---
