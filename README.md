@@ -39,4 +39,4 @@ Identifying the "Why" behind the buy. This section uses correlation analysis to 
 ---
 ## 👤 Author
 **Ramu Valliappan**  
-https://www.linkedin.com/in/ramu-valliappan | [Portfolio Link]
+https://www.linkedin.com/in/ramu-valliappan | https://github.com/RamuLincoln/BI_market_mindz/blob/main/marketmindz.pbix
