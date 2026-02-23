@@ -29,7 +29,6 @@ Identifying the "Why" behind the buy. This section uses correlation analysis to 
 
 ## 📁 Project Structure
 *   `BI_market_mindz.pbix`: The main Power BI file.
-*   `Data/`: (Optional) Folder containing the raw CSV/Excel files used for the analysis.
 *   `Screenshots/`: Images of the dashboard.
 
 ## 💡 How to Use
