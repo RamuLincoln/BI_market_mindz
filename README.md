@@ -1,6 +1,7 @@
 # Market Mindz: Marketing Campaign & Buyer Analysis
 
-### 📊 Project Overview
+## 📊 Project Overview
+
 Market Mindz is a comprehensive Power BI project designed to track marketing campaign performance and understand buyer demographics. This dashboard helps stakeholders identify which channels drive the most revenue and what factors influence customer purchasing decisions.
 ---
 
